@@ -1,5 +1,3 @@
-
-````markdown
 # Markus Pub - Digital Marketing Agency Landing Page
 
 A modern, responsive, and animated landing page for a fictional digital marketing agency, built with HTML, Tailwind CSS, GSAP, Three.js, and Spline 3D embedding.
@@ -50,11 +48,10 @@ This project is a sleek marketing agency landing page showcasing services, portf
 ## Setup & Installation
 
 1. Clone this repository:
-
    ```bash
    git clone https://github.com/yourusername/markus-pub.git
    cd markus-pub
-    ````
+   
 
 2. Open `index.html` in your browser directly or use a local server for best results:
 
