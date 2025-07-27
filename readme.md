@@ -1,3 +1,4 @@
+
 ````markdown
 # Markus Pub - Digital Marketing Agency Landing Page
 
@@ -53,7 +54,7 @@ This project is a sleek marketing agency landing page showcasing services, portf
    ```bash
    git clone https://github.com/yourusername/markus-pub.git
    cd markus-pub
-````
+    ````
 
 2. Open `index.html` in your browser directly or use a local server for best results:
 
