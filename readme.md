@@ -1,5 +1,5 @@
 # Markus Pub - Digital Marketing Agency Landing Page
-Live demo: https://mahmoud-ath.github.io/markus-pub-wesite
+Live demo: https://mahmoud-ath.github.io/markus-pub-website
 
 A modern, responsive, and animated landing page for a fictional digital marketing agency, built with HTML, Tailwind CSS, GSAP, Three.js, and Spline 3D embedding.
 
